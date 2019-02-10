@@ -8,7 +8,7 @@ Open this file on your Chrone Browser
 
 ## Built With
 
-* [Font Awesome](https://fontawesome.com/icons) 
+* [Font Awesome] (https://fontawesome.com/icons) 
 * [Google Fonts] (https://fonts.google.com/)
 
 
@@ -18,5 +18,5 @@ Open this file on your Chrone Browser
 
 ## Acknowledgments
 
-* This project was made during the Eddisrupt Bootcamp, on janueary/2019.
+* This project was made during the Eddisrupt Bootcamp, on january/2019.
 
